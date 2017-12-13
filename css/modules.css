@@ -147,6 +147,18 @@ svg.img-flex {
   width: 100%;
 }
 
+.embed-1by1, .embed--1by1 {
+  padding-top: 100%;
+}
+
+.embed-4by3, .embed--4by3 {
+  padding-top: 75%;
+}
+
+.embed-iso216, .embed--iso216 {
+  padding-top: 70.92%;
+}
+
 .embed-3by2, .embed--3by2 {
   padding-top: 66.6%;
 }
